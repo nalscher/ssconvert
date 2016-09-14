@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # start ssconvert
-exec ssconvert $PARAMS $FILETOREAD $FILETOREAD
+exec ssconvert $PARAMS $FILETOREAD $FILETOWRITE
